@@ -16,6 +16,6 @@ hhkb键盘壳子gasket结构
 
 gasket垫片，自己拿捏。定位板另一个项目里找北极星。
 
-![image-20220719155822868](README.assets\image-20220719155822868.png)
+![image-20220719155822868](README.assets/image-20220719155822868.png)
 
-![image-20220719155834593](README.assets\image-20220719155834593.png)
+![image-20220719155834593](README.assets/image-20220719155834593.png)
