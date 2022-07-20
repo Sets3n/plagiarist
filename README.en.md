@@ -1,36 +1,20 @@
 # plagiarist
+## introduce
+ This project is copied from the Polaris of [AI03](https://github.com/ai03-2725), similar to the hhkb keyboard shell gasket structure
 
-#### Description
-hhkb键盘壳子
+1. Please do not commercialize
+2. 60pcb compatible with 7u spaces can be used
+3. Really hhkb can't use it
+## Screw Specifications
+|Screw |Specification |Quantity |Taobao Link|
+|-----|-----------|-------|----------|
+|Counterweight screw| m3x5 |4 |7(0bpt2J50P5m)://|
+|Housing screw| m2x8 or m2x10| 8 |6(1uX12J5bdcz)://|
 
-#### Software Architecture
-Software architecture description
+Gasket, take care of yourself
 
-#### Installation
+Polaris for positioning plate
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![image-20220719155822868](README.assets/image-20220719155822868.png)
 
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![image-20220719155834593](README.assets/image-20220719155834593.png)
