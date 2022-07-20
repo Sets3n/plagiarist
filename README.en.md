@@ -6,6 +6,7 @@
 1. Please do not commercialize
 2. 60pcb compatible with 7u spaces can be used
 3. Really hhkb can't use it
+4. Please support genuine if conditions permit
 ## Screw Specifications
 |Screw |Specification |Quantity |Taobao Link|
 |-----|-----------|-------|----------|
