@@ -1,5 +1,7 @@
 # plagiarist
 
+[EN](./README_en.md)
+
 ## 介绍
 
 本工程抄袭自[AI03](https://github.com/ai03-2725)的Polaris
