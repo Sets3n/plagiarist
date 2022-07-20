@@ -1,6 +1,6 @@
 # plagiarist
 
-[EN](./README_en.md)
+[EN](./README.en.md)
 
 ## 介绍
 
