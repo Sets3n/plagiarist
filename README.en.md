@@ -1,4 +1,5 @@
 # plagiarist
+[CN](./README.md)
 ## introduce
  This project is copied from the Polaris of [AI03](https://github.com/ai03-2725), similar to the hhkb keyboard shell gasket structure
 
